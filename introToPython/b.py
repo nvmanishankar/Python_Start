@@ -1,0 +1,7 @@
+print("")
+title="menu".upper()
+print(title.center(20,"="))
+print("coffe".ljust(16,".")+ "$1".rjust(4))
+print("muffin".ljust(16,".")+ "$2".rjust(4))
+print("cheese".ljust(16,".")+ "$3".rjust(4))
+print("")
